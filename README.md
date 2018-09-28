@@ -1,1 +1,1 @@
-# Create-Your-Own-Image-Classifier-with-Deep-Learning
+# Create-Image-Classifier-with-Deep-Learning
